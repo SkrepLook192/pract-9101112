@@ -1,0 +1,279 @@
+
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "Ноутбук ASUS VivoBook 15",
+            "price": 45000,
+            "description": "15.6 дюймов, Intel Core i5, 8 ГБ ОЗУ, 512 ГБ SSD",
+            "image": "https://avatars.mds.yandex.net/get-mpic/3721790/img_id3339809656940607079.png/orig",
+            "category": "Электроника",
+            "rating": 4.7
+
+        },
+        {
+            "id": 2,
+            "title": "Смартфон Samsung Galaxy S21",
+            "price": 60000,
+            "description": "6.2 дюймов, 128 ГБ, Phantom Gray",
+            "image": "https://avatars.mds.yandex.net/get-marketpic/4461662/picdb28e73c78d8134ad3f76743768084d3/orig",
+            "category": "Электроника",
+            "rating": 4.8
+        },
+        {
+            "id": 3,
+            "title": "Наушники Sony WH-1000XM4",
+            "price": 25000,
+            "description": "Беспроводные, шумоподавление, черный",
+            "image": "https://frankfurt.apollo.olxcdn.com/v1/files/06oxog90x5li2-UZ/image",
+            "category": "Электроника",
+            "rating": 4.9
+        },
+        {
+            "id": 4,
+            "title": "Фитнес-браслет Xiaomi Mi Band 6",
+            "price": 3000,
+            "description": "Цветной AMOLED-экран, черный",
+            "image": "https://avatars.mds.yandex.net/i?id=d33d0e26db7280bc4f92f83a53452188_l-5529899-images-thumbs&n=13",
+            "category": "Электроника",
+            "rating": 4.6
+        },
+        {
+            "id": 5,
+            "title": "Планшет Apple iPad Air",
+            "price": 55000,
+            "description": "10.9 дюймов, 64 ГБ, Space Gray",
+            "image": "https://avatars.mds.yandex.net/get-mpic/4880383/img_id7346735525194615056.jpeg/orig",
+            "category": "Электроника",
+            "rating": 4.8
+        },
+        {
+            "id": 6,
+            "title": "Фотоаппарат Canon EOS R6",
+            "price": 150000,
+            "description": "Зеркальный, 20 Мп, 4K видео",
+            "image": "https://cdn1.ozone.ru/s3/multimedia-w/6460323320.jpg",
+            "category": "Электроника",
+            "rating": 4.9
+        },
+        {
+            "id": 7,
+            "title": "Монитор Dell UltraSharp 27",
+            "price": 40000,
+            "description": "27 дюймов, 4K, IPS",
+            "image": "https://i.ebayimg.com/00/s/MTE5NVgxMjk2/z/wBQAAOSwv1FkHfwM/$_57.JPG?set_id=880000500F",
+            "category": "Электроника",
+            "rating": 4.7
+        },
+        {
+            "id": 8,
+            "title": "Игровая мышь Logitech G502",
+            "price": 5000,
+            "description": "11 программируемых кнопок, RGB",
+            "image": "https://avatars.mds.yandex.net/get-mpic/12485547/2a0000018ee7e1e53dcc2a1ec8ed836fa986/orig",
+            "category": "Электроника",
+            "rating": 4.8
+        },
+        {
+            "id": 9,
+            "title": "Клавиатура Keychron K6",
+            "price": 7000,
+            "description": "Механическая, Bluetooth, 65%",
+            "image": "https://avatars.mds.yandex.net/i?id=fd9876bfabf84130f1e491200b86a661_l-4715391-images-thumbs&n=13",
+            "category": "Электроника",
+            "rating": 4.7
+        },
+        {
+            "id": 10,
+            "title": "Колонка JBL Flip 5",
+            "price": 8000,
+            "description": "Портативная, водонепроницаемая, синий",
+            "image": "https://ir.ozone.ru/s3/multimedia-5/6381371693.jpg",
+            "category": "Электроника",
+            "rating": 4.6
+        },
+        {
+            "id": 11,
+            "title": "Футболка мужская",
+            "price": 1500,
+            "description": "Хлопок, лавандовая",
+            "image": "https://giftprime.ru/wp-content/uploads/2020/02/11500205_1_1000x1000.jpg",
+            "category": "Одежда",
+            "rating": 4.5
+        },
+        {
+            "id": 12,
+            "title": "Джинсы женские",
+            "price": 3000,
+            "description": "Скинни, синий",
+            "image": "https://a.lmcdn.ru/product/L/A/LA038EWGDG96_1_v1.jpg",
+
+
+"category": "Одежда",
+            "rating": 4.6
+        },
+        {
+            "id": 13,
+            "title": "Куртка зимняя",
+            "price": 10000,
+            "description": "Пуховая, синяя",
+            "image": "https://a.lmcdn.ru/product/U/S/US799EMCZZ10_1.jpg",
+            "category": "Одежда",
+            "rating": 4.7
+        },
+        {
+            "id": 14,
+            "title": "Кроссовки Nike Air Max",
+            "price": 8000,
+            "description": "Беговые, белый",
+            "image": "https://avatars.mds.yandex.net/i?id=6a4dc5e78749e65228cc9da925f22d86_l-7801542-images-thumbs&n=13",
+            "category": "Одежда",
+            "rating": 4.8
+        },
+        {
+            "id": 15,
+            "title": "Рюкзак Herschel",
+            "price": 5000,
+            "description": "Повседневный, синий",
+            "image": "https://avatars.mds.yandex.net/get-mpic/5221948/img_id7543482573460213972.jpeg/orig",
+            "category": "Одежда",
+            "rating": 4.6
+        },
+        {
+            "id": 16,
+            "title": "Часы Casio G-Shock",
+            "price": 12000,
+            "description": "Ударопрочные, черный",
+            "image": "https://cache3.youla.io/files/images/780_780/58/1a/581a3fd49a64a27996eff187.jpg",
+            "category": "Одежда",
+            "rating": 4.7
+        },
+        {
+            "id": 17,
+            "title": "Очки Ray-Ban",
+            "price": 9000,
+            "description": "Солнцезащитные, черный",
+            "image": "https://avatars.mds.yandex.net/i?id=693e1f4b4586ab0ad54b64fa07b12b56_l-4485911-images-thumbs&n=13",
+            "category": "Одежда",
+            "rating": 4.8
+        },
+        {
+            "id": 18,
+            "title": "Шапка вязаная",
+            "price": 1000,
+            "description": "Шерсть, серый",
+            "image": "https://illan-gifts.ru/api/images/shapka-teplo-life-explorer-temno-seraia-721821.jpeg",
+            "category": "Одежда",
+            "rating": 4.5
+        },
+        {
+            "id": 19,
+            "title": "Платье вечернее",
+            "price": 7000,
+            "description": "Шелк, черный",
+            "image": "https://avatars.mds.yandex.net/i?id=1231ec97799cf0d0c4043d9d7b1c1b6d_l-5221613-images-thumbs&n=13",
+            "category": "Одежда",
+            "rating": 4.7
+        },
+        {
+            "id": 20,
+            "title": "Сумка женская",
+            "price": 6000,
+            "description": "Кожа, бежевый",
+            "image": "https://goods-photos.static1-sima-land.com/items/6142553/1/1600.jpg?v=1626763155",
+            "category": "Одежда",
+            "rating": 4.6
+        },
+        {
+            "id": 21,
+            "title": "Книга '1984'",
+            "price": 500,
+            "description": "Джордж Оруэлл",
+            "image": "https://avatars.mds.yandex.net/i?id=c6220e4e5e72bb34e06afb2162e45aa8_l-8931611-images-thumbs&n=13",
+            "category": "Книги",
+            "rating": 4.9
+        },
+        {
+            "id": 22,
+            "title": "Книга 'Мастер и Маргарита'",
+            "price": 600,
+            "description": "Михаил Булгаков",
+            "image": "https://www.belykrolik.ru/media/catalog/product_images/15941411_1_master-i-margarita-kollektsionnoe-illyustrirovannoe-izdanie-.jpg",
+            "category": "Книги",
+            "rating": 4.8
+        },
+        {
+            "id": 23,
+            "title": "Книга 'Гарри Поттер и Философский камень'",
+            "price": 700,
+            "description": "Джоан Роулинг",
+            "image": "https://avatars.mds.yandex.net/i?id=a0258fd2aca2731961285df42fff8bd1_l-5287893-images-thumbs&n=13",
+            "category": "Книги",
+            "rating": 4.9
+        },
+        {
+            "id": 24,
+            "title": "Книга 'Война и мир'",
+            "price": 800,
+            "description": "Лев Толстой",
+            "image": "https://avatars.mds.yandex.net/i?id=d5159eb4ac77c8fa4920d546895d6863_l-3569718-images-thumbs&n=13",
+            "category": "Книги",
+            "rating": 4.7
+        },
+
+{
+            "id": 25,
+            "title": "Книга 'Преступление и наказание'",
+            "price": 550,
+            "description": "Федор Достоевский",
+            "image": "https://avatars.mds.yandex.net/i?id=44588524b680fa882b299908ffa8a076_l-4228239-images-thumbs&n=13",
+            "category": "Книги",
+            "rating": 4.8
+        },
+        {
+            "id": 26,
+            "title": "Книга 'Маленький принц'",
+            "price": 400,
+            "description": "Антуан де Сент-Экзюпери",
+            "image": "https://cdn1.ozone.ru/s3/multimedia-m/6053492026.jpg",
+            "category": "Книги",
+            "rating": 4.9
+        },
+        {
+            "id": 27,
+            "title": "Книга 'Алхимик'",
+            "price": 650,
+            "description": "Пауло Коэльо",
+            "image": "https://cdn1.ozone.ru/s3/multimedia-u/6635960706.jpg",
+            "category": "Книги",
+            "rating": 4.7
+        },
+        {
+            "id": 28,
+            "title": "Книга 'Три товарища'",
+            "price": 750,
+            "description": "Эрих Мария Ремарк",
+            "image": "https://object.pscloud.io/cms/cms/Photo/img_0_1550_695_0.jpeg",
+            "category": "Книги",
+            "rating": 4.8
+        },
+        {
+            "id": 29,
+            "title": "Книга 'Тень горы'",
+            "price": 900,
+            "description": "Грегори Дэвид Робертс",
+            "image": "https://avatars.mds.yandex.net/get-mpic/5139700/img_id4115428213855442323.jpeg/orig",
+            "category": "Книги",
+            "rating": 4.7
+        },
+        {
+            "id": 30,
+            "title": "Книга 'Шантарам'",
+            "price": 850,
+            "description": "Грегори Дэвид Робертс",
+            "image": "https://avatars.mds.yandex.net/get-mpic/5191310/img_id852174461950047995.jpeg/orig",
+            "category": "Книги",
+            "rating": 4.8
+        }
+    ]
+}
